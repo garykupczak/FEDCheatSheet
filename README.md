@@ -160,10 +160,10 @@ SEO*
 Templating languages (HAML, Jade, etc)*
 
 ## CSS
-IE hacks:
-- Wacky IE CSS selector hacks (underscore, tick, asterisk, etc)
-- IE-only conditional inclusion of stylesheets
-- IE-specific classes on the body or HTML element (see HTML5 boilerplate)
+~IE hacks:~
+- ~Wacky IE CSS selector hacks (underscore, tick, asterisk, etc)~
+- ~IE-only conditional inclusion of stylesheets~
+- ~IE-specific classes on the body or HTML element (see HTML5 boilerplate)~
 
 CSS box model
 
