@@ -251,3 +251,22 @@ Being able to speak of personal projects usually scores you points because it sh
 - [http://stackoverflow.com](http://stackoverflow.com)
 - [http://tympanus.net/codrops](http://tympanus.net/codrops)
 - [Front-End Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+
+### It's 2018 and you've been asleep for the past 3 years
+
+Here's what you've missed (details to follow soon):
+
+- ES6 (ES2015)
+  - Modules
+  - Webpack
+  - Babel
+- Second (third?) generation of MVC(-ish) frameworks
+  - Angular
+  - React
+  - Vue.js
+- CSS
+  - CSS custom properties
+  - Grid
+  - Masking
+  - No one really cares if you're good at CSS anymore
+    - *Seriously, no one cares*
