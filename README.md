@@ -160,37 +160,61 @@ SEO*
 Templating languages (HAML, Jade, etc)*
 
 ## CSS
-~IE hacks:~
+~### IE hacks~
 - ~Wacky IE CSS selector hacks (underscore, tick, asterisk, etc)~
 - ~IE-only conditional inclusion of stylesheets~
 - ~IE-specific classes on the body or HTML element (see HTML5 boilerplate)~
 
-CSS box model
+### Box model
+
+*I was asked this on a call as recently as May 2018*
 
 Margin vs. padding
 - How margin, padding, and border affect the width of an element
 
+*TODO: box-sizing*
+
+### Selectors
+
 Selector specificity, and how it may affect performance
-
-What floats are, and how to use them
-
-What CSS “reset” and "normalize" utilities are, and what they do
-
-What “clearfix” is, and how it is used
-
-Defining sizes: pxs vs. ems vs. pts vs. percentages
 
 What !important does, and why you shouldn’t use it
 
+*TODO: But when might you want to use it?*
+
 External vs. inline styles, and why external styles are preferable
 
-Media types
+### Resets
 
-Media queries (particularly in regards to mobile devices and pixel density)
+What CSS “reset” and "normalize" utilities are, and what they do
 
+### Units
+
+Defining sizes: pxs vs. ems vs. pts vs. percentages
+
+*TODO: Viewport units*
+
+### Layout
 CSS frameworks and grid systems (Bootstrap, 960 GS, Blueprint)*
 
-CSS preprocessors (LESS, SASS/Compass, Stylus), and why they are useful*
+*TODO: CSS grid, flexbox*
+
+### Floats
+
+What floats are, and how to use them
+
+What “clearfix” is, and how it is used
+
+### "Responsive"
+
+- Media types
+- Media queries (particularly in regards to mobile devices and pixel density)
+
+### Preprocessors
+
+(LESS, SASS/Compass, Stylus), and why they are useful*
+
+*TODO: Pros/cons vs CSS custom properties and related native functions*
 
 Be able to explain the differences between:
 - values of the display attribute (block, inline, none, etc)
