@@ -283,14 +283,22 @@ Being able to speak of personal projects usually scores you points because it sh
 
 ### Resources and Sites of Interest
 
-- [http://www.w3.org](http://www.w3.org)
-- [http://html5doctor.com](http://html5doctor.com)
-- [http://www.quirksmode.org](http://www.quirksmode.org)
+### General Help
+- [https://developer.mozilla.org/en-US/](https://developer.mozilla.org/en-US/)
+- [http://stackoverflow.com](http://stackoverflow.com)
+
+#### Blogs
 - [http://www.smashingmagazine.com](http://www.smashingmagazine.com)
 - [http://www.alistapart.com](http://www.alistapart.com)
 - [http://css-tricks.com](http://css-tricks.com)
+- [http://www.quirksmode.org](http://www.quirksmode.org)
 - [http://www.sitepoint.com](http://www.sitepoint.com)
-- [http://stackoverflow.com](http://stackoverflow.com)
+
+#### Specs
+- [http://www.w3.org](http://www.w3.org)
+- [https://whatwg.org/](https://whatwg.org/)
+
+#### Other
 - [http://tympanus.net/codrops](http://tympanus.net/codrops)
 - [Front-End Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
 
