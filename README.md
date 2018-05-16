@@ -1,5 +1,23 @@
 # Front-End Developer Cheat Sheet
 
+This is a quick-and-dirty guide to getting hired as a front-end developer in 2018.
+
+It covers:
+
+- Skill set
+  - The minimum skill set you need and how to get it
+  - Skill set nice-to-haves
+  - Things on the horizon you should be preparing for
+
+- Stuff you need
+  - Resume
+  - Portfolio site, GitHub, or both
+
+- Interviews
+  - Topics that come up frequently
+  - Things that will net you bonus points
+  - Dos and don'ts (I just wanted a third thing here)
+
 This guide covers topics that I’ve found come up in interviews fairly frequently. In-depth knowledge of every item on the following lists is not absolutely necessary, but you should be able to at least talk about them intelligently, should they come up.
 
 Note: Items marked with * are not usually necessary, but will score you bonus points
