@@ -278,6 +278,14 @@ Being able to speak of personal projects usually scores you points because it sh
 
 ### It's 2018 and you've been asleep for the past 3 years
 
+TODO: Identify:
+
+- what you absolutely need to know to get a job in 2018
+  - ES6
+  - React OR Angular
+- what are you probably going to need to know next year
+- what doesn't really matter anymore
+
 Here's what you've missed (details to follow soon):
 
 - ES6 (ES2015)
