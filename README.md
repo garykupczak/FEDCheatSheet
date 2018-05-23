@@ -22,6 +22,19 @@ This guide covers topics that I’ve found come up in interviews fairly frequent
 
 Note: Items marked with * are not usually necessary, but will score you bonus points
 
+## Skill set
+
+### Must haves
+
+#### React or Angular
+
+You need functional knowledge of at least one current framework or you're basically unemployable. Working knowledge of a second is a good bonus. TODO: Add some advice on how to pick which one to learn. If you're in a hurry though, learn React.
+
+- [React tutorial](https://reactjs.org/tutorial/tutorial.html)
+  - 1 to 1.5 hours
+- [Angular tutorial](https://angular.io/tutorial)
+  - About 4 hours (3 hours + 1 hour of initialization)
+
 ## General
 HTTP lifecycle
 
